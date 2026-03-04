@@ -1,0 +1,21 @@
+employee_id,name,department,role,warehouse,projects_handled,clients_managed,tasks_completed,on_time_delivery_rate
+E001,Arjun Sharma,Supply Chain,Senior Manager,Delhi-01,42,18,310,0.94
+E002,Priya Mehta,Logistics,Operations Lead,Mumbai-02,38,22,285,0.91
+E003,Rohan Verma,Procurement,Category Head,Bangalore-01,55,30,420,0.97
+E004,Sneha Kapoor,Warehouse,Ops Manager,Hyderabad-03,29,12,198,0.83
+E005,Karan Singh,Tech,Product Manager,Delhi-01,47,25,360,0.95
+E006,Ananya Reddy,Finance,Controller,Bangalore-01,33,15,240,0.88
+E007,Vikram Nair,HR,HR Business Partner,Mumbai-02,21,10,175,0.79
+E008,Deepika Joshi,Logistics,Dispatch Head,Pune-01,36,19,265,0.90
+E009,Amit Patel,Supply Chain,Analyst,Ahmedabad-01,18,8,142,0.75
+E010,Neha Gupta,Procurement,Vendor Manager,Delhi-02,44,27,325,0.93
+E011,Suresh Kumar,Warehouse,Shift Lead,Chennai-01,25,11,190,0.82
+E012,Pooja Iyer,Tech,Data Engineer,Bangalore-02,40,20,298,0.89
+E013,Rahul Bose,Finance,Senior Analyst,Mumbai-01,30,14,220,0.86
+E014,Divya Menon,Supply Chain,Planner,Kolkata-01,35,16,255,0.87
+E015,Manish Tiwari,Logistics,Route Planner,Delhi-01,28,13,205,0.84
+E016,Kavita Sharma,HR,Recruiter,Bangalore-01,15,7,120,0.72
+E017,Rajesh Pandey,Warehouse,Safety Officer,Hyderabad-01,20,9,158,0.77
+E018,Sunita Rao,Tech,ML Engineer,Bangalore-03,52,28,395,0.96
+E019,Aditya Mishra,Procurement,Buyer,Delhi-03,26,12,195,0.81
+E020,Ritika Agarwal,Supply Chain,Senior Analyst,Mumbai-03,39,21,290,0.92

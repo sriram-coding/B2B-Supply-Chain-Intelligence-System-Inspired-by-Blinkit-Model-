@@ -1,0 +1,16 @@
+vendor_id,vendor_name,category,contract_value,region
+V001,FreshMart Supplies,Fresh Produce,4500000,North
+V002,QuickPack Industries,Packaging,2800000,West
+V003,TechFreeze Logistics,Cold Chain,6200000,South
+V004,AgroVision Foods,Dairy & Eggs,3900000,East
+V005,SpeedX Couriers,Last Mile,5100000,North
+V006,SafeStore Warehousing,Storage,7300000,Central
+V007,GreenLeaf Organics,Organic Produce,2200000,West
+V008,MegaCold Systems,Refrigeration,4800000,South
+V009,RapidRoute Partners,Transportation,3600000,North
+V010,PrimePack Solutions,Packaging,1900000,East
+V011,FoodSafe Tech,Quality Control,2600000,Central
+V012,SwiftDeliver Co,Express Delivery,5500000,West
+V013,BulkBuy Suppliers,Dry Goods,3200000,North
+V014,EcoWrap India,Sustainable Packaging,1700000,South
+V015,PharmaChain Health,Pharmacy,8900000,East

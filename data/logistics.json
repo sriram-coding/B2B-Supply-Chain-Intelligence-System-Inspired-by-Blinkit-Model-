@@ -1,0 +1,12 @@
+[
+  {"logistics_id": "L001", "partner_name": "SpeedX Couriers", "region": "North", "shipments_handled": 12400, "avg_delivery_time": 28},
+  {"logistics_id": "L002", "partner_name": "SwiftDeliver Co", "region": "West", "shipments_handled": 9800, "avg_delivery_time": 32},
+  {"logistics_id": "L003", "partner_name": "RapidRoute Partners", "region": "North", "shipments_handled": 7600, "avg_delivery_time": 35},
+  {"logistics_id": "L004", "partner_name": "TechFreeze Logistics", "region": "South", "shipments_handled": 5200, "avg_delivery_time": 24},
+  {"logistics_id": "L005", "partner_name": "QuickMove Freight", "region": "East", "shipments_handled": 8900, "avg_delivery_time": 30},
+  {"logistics_id": "L006", "partner_name": "MegaHaul Transport", "region": "Central", "shipments_handled": 11200, "avg_delivery_time": 27},
+  {"logistics_id": "L007", "partner_name": "CityRun Express", "region": "West", "shipments_handled": 14300, "avg_delivery_time": 22},
+  {"logistics_id": "L008", "partner_name": "NightShift Logistics", "region": "South", "shipments_handled": 6700, "avg_delivery_time": 38},
+  {"logistics_id": "L009", "partner_name": "EasyLoad Co", "region": "East", "shipments_handled": 4500, "avg_delivery_time": 42},
+  {"logistics_id": "L010", "partner_name": "BlinkDrop Partners", "region": "North", "shipments_handled": 18600, "avg_delivery_time": 18}
+]

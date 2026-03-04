@@ -1,0 +1,18 @@
+contract_id,vendor_name,value,start_date,end_date,status
+C001,FreshMart Supplies,4500000,2023-01-15,2025-01-14,Active
+C002,QuickPack Industries,2800000,2023-03-01,2024-02-28,Expired
+C003,TechFreeze Logistics,6200000,2024-01-01,2025-12-31,Active
+C004,AgroVision Foods,3900000,2023-06-15,2025-06-14,Active
+C005,SpeedX Couriers,5100000,2024-04-01,2026-03-31,Active
+C006,SafeStore Warehousing,7300000,2022-12-01,2024-11-30,Expired
+C007,GreenLeaf Organics,2200000,2024-02-15,2025-02-14,Active
+C008,MegaCold Systems,4800000,2023-09-01,2025-08-31,Active
+C009,RapidRoute Partners,3600000,2024-07-01,2026-06-30,Active
+C010,PrimePack Solutions,1900000,2023-11-01,2024-10-31,Expired
+C011,FoodSafe Tech,2600000,2024-03-15,2026-03-14,Active
+C012,SwiftDeliver Co,5500000,2024-06-01,2026-05-31,Active
+C013,BulkBuy Suppliers,3200000,2023-08-01,2025-07-31,Active
+C014,EcoWrap India,1700000,2024-01-15,2025-01-14,Active
+C015,PharmaChain Health,8900000,2024-05-01,2027-04-30,Active
+C016,SafeStore Warehousing,7800000,2024-12-01,2026-11-30,Active
+C017,QuickPack Industries,3100000,2024-03-01,2026-02-28,Active
