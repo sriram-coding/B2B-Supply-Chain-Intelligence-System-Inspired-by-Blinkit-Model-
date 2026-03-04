@@ -20,7 +20,7 @@ Key capabilities include:
 
 This project demonstrates how hybrid AI systems can support enterprise-level decision-making in supply chain environments.
 
-Note: This is an academic and portfolio project inspired by quick-commerce business models. It is not affiliated with or endorsed by any real company.
+Note: This is an academic and portfolio project inspired by quick-commerce business models.
 
 ------------------------------------------------------------
 
